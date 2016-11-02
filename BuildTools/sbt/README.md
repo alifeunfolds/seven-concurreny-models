@@ -4,3 +4,13 @@
 [SBT Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md)
 [SBT Documentation](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html)
 [SBT Twitter Example](https://twitter.github.io/scala_school/ko/sbt.html)
+
+# Installation
+
+## Ubuntu
+```
+sudo apt-get install scala
+sudp apt-get install sbt
+```
+
+
